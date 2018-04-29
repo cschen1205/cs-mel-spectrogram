@@ -1,6 +1,8 @@
 # cs-mel-spectrogram
 
-Convert audio file to melgram (that is, me-spectrogram) in .NET
+Convert audio file to melgram (that is, me-spectrogram) in .NET 
+
+Note that this is a x64 build, therefore your .NET project must be also x64 build.
 
 # Install
 
