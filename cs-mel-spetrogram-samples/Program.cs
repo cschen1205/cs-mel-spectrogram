@@ -1,8 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Drawing;
+using System.IO;
 
 namespace MelGram
 {
@@ -11,7 +9,7 @@ namespace MelGram
         static void Main(string[] args)
         {
             MelSpectrogram gram = new MelSpectrogram();
-            string dataDirPath = Path.Combine(IOUtils.AssemblyDirectory, "..", "..", "..", "gtzan", "genres");
+            string dataDirPath = Path.Combine(IOUtils.AssemblyDirectory, "..", "..", "..", "..", "gtzan", "genres");
             if (!Directory.Exists(dataDirPath))
             {
                 Console.WriteLine("{0} does not exists", dataDirPath);

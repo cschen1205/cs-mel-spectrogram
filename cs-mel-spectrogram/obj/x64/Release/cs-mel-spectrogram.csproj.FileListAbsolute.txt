@@ -1,0 +1,7 @@
+C:\Users\chen0\git-cs\cs-mel-spetrogram\cs-mel-spectrogram\bin\x64\Release\cs-mel-spectrogram.dll
+C:\Users\chen0\git-cs\cs-mel-spetrogram\cs-mel-spectrogram\bin\x64\Release\cs-mel-spectrogram.pdb
+C:\Users\chen0\git-cs\cs-mel-spetrogram\cs-mel-spectrogram\bin\x64\Release\Bass.Net.dll
+C:\Users\chen0\git-cs\cs-mel-spetrogram\cs-mel-spectrogram\obj\x64\Release\MelGram.Properties.Resources.resources
+C:\Users\chen0\git-cs\cs-mel-spetrogram\cs-mel-spectrogram\obj\x64\Release\cs-mel-spectrogram.csproj.GenerateResource.Cache
+C:\Users\chen0\git-cs\cs-mel-spetrogram\cs-mel-spectrogram\obj\x64\Release\cs-mel-spectrogram.dll
+C:\Users\chen0\git-cs\cs-mel-spetrogram\cs-mel-spectrogram\obj\x64\Release\cs-mel-spectrogram.pdb

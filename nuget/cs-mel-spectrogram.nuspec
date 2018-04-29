@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>cs-mel-spectrogram</id>
+    <version>1.0.1</version>
+    <authors>cschen1205</authors>
+    <owners>cschen1205</owners>
+    <licenseUrl>https://github.com/cschen1205/cs-mel-spectrogram/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/cschen1205/cs-mel-spectrogram</projectUrl>
+    <iconUrl>https://rawgit.com/cschen1205/cs-mel-spectrogram/master/icon.jpg</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Audio to Mel-Spectrogram Image for x64 Build</description>
+    <releaseNotes>Audio to Mel-Spectrogram in .NET 4.6.1 and x64 Build</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>Mel-Spectrogram, MelGram, Audio-to-Image, c-sharp</tags>
+    <dependencies>
+      
+    </dependencies>
+  </metadata>
+</package>
