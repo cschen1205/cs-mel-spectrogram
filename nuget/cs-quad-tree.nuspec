@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>cs-quad-tree</id>
+    <version>1.0.1</version>
+    <authors>cschen1205</authors>
+    <owners>cschen1205</owners>
+    <licenseUrl>https://github.com/cschen1205/cs-quad-tree/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/cschen1205/cs-quad-tree</projectUrl>
+    <iconUrl>https://rawgit.com/cschen1205/cs-quad-tree/master/icon.jpg</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>QuadTree</description>
+    <releaseNotes>QuadTree in .NET 4.6.1</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>QuadTree, c-sharp</tags>
+    <dependencies>
+      
+    </dependencies>
+  </metadata>
+</package>

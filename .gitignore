@@ -1,0 +1,4 @@
+.vs/
+*.suo
+*.user
+packages/

@@ -1,0 +1,1 @@
+C:\Users\chen0\git-cs\cs-mel-spetrogram\cs-mel-spetrogram\bin\Debug\cs-mel-spetrogram.exe.config
